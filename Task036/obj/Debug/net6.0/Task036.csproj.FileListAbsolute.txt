@@ -1,0 +1,15 @@
+D:\C#lesson\HomeWork_5Seminar\Task036\bin\Debug\net6.0\Task036.exe
+D:\C#lesson\HomeWork_5Seminar\Task036\bin\Debug\net6.0\Task036.deps.json
+D:\C#lesson\HomeWork_5Seminar\Task036\bin\Debug\net6.0\Task036.runtimeconfig.json
+D:\C#lesson\HomeWork_5Seminar\Task036\bin\Debug\net6.0\Task036.dll
+D:\C#lesson\HomeWork_5Seminar\Task036\bin\Debug\net6.0\Task036.pdb
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.csproj.AssemblyReference.cache
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.AssemblyInfoInputs.cache
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.AssemblyInfo.cs
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.csproj.CoreCompileInputs.cache
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.dll
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\refint\Task036.dll
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.pdb
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\Task036.genruntimeconfig.cache
+D:\C#lesson\HomeWork_5Seminar\Task036\obj\Debug\net6.0\ref\Task036.dll
